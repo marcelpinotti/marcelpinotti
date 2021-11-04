@@ -1,4 +1,4 @@
-<h1 align="center">Olá, seja bem vindo ao meu perfil, me chamo Marcel Pinotti... ☕</h1>
+<h1 align="center">Olá, seja bem vindo ao meu perfil, me chamo Marcel Pinotti...☕</h1>
 
 <h4>
   📖 Sou estudande de Análise e Desenvolvimento de Sistemas.<br>
@@ -12,8 +12,8 @@
 
 <div>
   <a href="https://github.com/marcelpinotti">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=marcelpinotti&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelpinotti&layout=compact&langs_count=7&theme=blue-green"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=marcelpinotti&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelpinotti&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
   
 <h2 align="center">Tecnologias Que Estudo Atualmente</h2>
